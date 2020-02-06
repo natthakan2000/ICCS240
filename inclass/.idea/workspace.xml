@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63d91057-0676-4e7d-be24-91983c5e3bbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hw1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw1.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
       <updated>1580377683417</updated>
       <workItem from="1580377686693" duration="1185000" />
       <workItem from="1580885405457" duration="19000" />
+      <workItem from="1580960064482" duration="428000" />
     </task>
     <servers />
   </component>
@@ -70,9 +68,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1580885420183" />
-    <state x="556" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1580377692561">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state x="556" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1580960074041">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="556" y="377" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1580960074041" />
     <state x="556" y="365" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1580377692561" />
     <state x="273" y="141" key="new project wizard" timestamp="1580379173112">
       <screen x="0" y="0" width="1792" height="1120" />
